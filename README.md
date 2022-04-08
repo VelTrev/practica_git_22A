@@ -29,5 +29,6 @@ Comando para hacer consulta de cambios:
 ```
 git diff
 ```
-
+git git
+```
 Etc.
